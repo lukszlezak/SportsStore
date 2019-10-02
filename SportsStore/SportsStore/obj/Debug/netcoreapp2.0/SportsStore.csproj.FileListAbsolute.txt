@@ -1,0 +1,11 @@
+E:\Splott WorkSpace\Visual Studio 2017 WorkSpace\SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+E:\Splott WorkSpace\Visual Studio 2017 WorkSpace\SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+E:\Splott WorkSpace\Visual Studio 2017 WorkSpace\SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+E:\Splott WorkSpace\Visual Studio 2017 WorkSpace\SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
+E:\Splott WorkSpace\Visual Studio 2017 WorkSpace\SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+E:\Splott WorkSpace\Visual Studio 2017 WorkSpace\SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csprojAssemblyReference.cache
+E:\Splott WorkSpace\Visual Studio 2017 WorkSpace\SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+E:\Splott WorkSpace\Visual Studio 2017 WorkSpace\SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+E:\Splott WorkSpace\Visual Studio 2017 WorkSpace\SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+E:\Splott WorkSpace\Visual Studio 2017 WorkSpace\SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
+E:\Splott WorkSpace\Visual Studio 2017 WorkSpace\SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb
